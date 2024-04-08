@@ -1,0 +1,7 @@
+Data collection : conducted requirement gathering based on business perspective in json format .
+Data cleaning : cleaned the data based on requirement and converted json unstructured data format to csv structuredformat using pandas for creating visualization in power bi .
+Data preprocessing : connected the csv format to Power bi by using folder option in get Data after uploading all the data,transformed the data into power query editor to
+preprocessing the data for visualization . 
+Created Dax measures like sum , average, count, and custom column to summarize the data.
+Data visualization : created visualization by using Scatter plot, KPIS ,Table and added tooltips to see th every details of the players .
+created different type of buttons for navigation to the different page and created slicer to filter the data based on the condtion applied.
